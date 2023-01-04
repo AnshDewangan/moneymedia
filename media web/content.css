@@ -1,0 +1,39 @@
+*{ margin: 0px; padding: 0px ; }
+
+body{ background-color: black; color: white; }
+
+
+.blog-list-cont{ width: 20%; border: 1px solid white; }
+
+.blogcont-title{display: flex; justify-content: center; align-items: center; font-size: 14px; font-family: monospace; margin: 0px 3px; margin-top: 3px;  padding: 6px 0px; background-color: #292929;}
+
+.titlebottom-line{ }
+
+.blog-heading-cont{ height: 580px;  overflow-y: auto;}
+
+.blog-heading-cont::-webkit-scrollbar { width: 2px; }
+.blog-heading-cont::-webkit-scrollbar-thumb {  background-color: #ffc107}
+
+.blog-heading{ display: block; color: white; background-color: #292929; border-radius: 10px; font-size: 12px; font-weight: bold; text-align: justify; padding: 10px 10px; margin: 10px 10px; transition: .4s; }
+
+.blog-heading:hover { background-color: #333333; cursor: pointer; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
